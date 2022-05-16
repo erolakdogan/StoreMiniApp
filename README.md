@@ -13,7 +13,6 @@ Implementing the Repository and Unit of Work Patterns in an .Net Core API(6.0)
 1.	Swagger - API documentation
 2.	MSSQL - DB
 3.	AutoMapper - Mapping framework
-5.  Mock - Test
 4.	EntityFrameworkCore
 
 # UML Diagram
