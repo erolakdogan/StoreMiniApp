@@ -26,3 +26,8 @@ Implementing the Repository and Unit of Work Patterns in an .Net Core API(6.0)
   POST http://localhost:7102/api/Users/CreateUser
   DELETE http://localhost:7102/api/Users/Delete{id}
 ```
+# SonarQube report 
+[SonarQube report](https://github.com/erolakdogan/StoreMiniApp/blob/master/storeminiapp-sonarqubetest.zip)
+for the code showing its quality summary
+
+![SonarQubeReport](https://github.com/erolakdogan/StoreMiniApp/blob/master/StoreMiniAppSonarqube.png)
